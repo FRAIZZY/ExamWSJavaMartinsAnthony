@@ -1,0 +1,13 @@
+package com.humanbooster.examWSJavaMartinsAnthony;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ExamWsJavaMartinsAnthonyApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ExamWsJavaMartinsAnthonyApplication.class, args);
+	}
+
+}
